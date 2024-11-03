@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e17b62bb-d154-40f7-9995-fcdaae035b8f": {
+      "ProjectGuid": "e17b62bb-d154-40f7-9995-fcdaae035b8f",
+      "DisplayName": "GeoWebApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
