@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "da47d23a-e412-4566-8543-a017e7268a91": {
+      "ProjectGuid": "da47d23a-e412-4566-8543-a017e7268a91",
+      "DisplayName": "GeoWebAPI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
